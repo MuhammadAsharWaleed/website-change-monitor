@@ -1,0 +1,20 @@
+# local config with real credentials
+config.yaml
+
+# database
+data/
+
+# generated charts
+reports/*.png
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# editor/OS clutter
+.vscode/
+.idea/
+.DS_Store
